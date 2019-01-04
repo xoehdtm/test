@@ -116,7 +116,8 @@ public class MainActivity extends AppCompatActivity {
     /*
     //==============================================================================================
     //테스트 브런치 공동 사용
-    test_b branch_a_3 수정
+    test_b branch_a_3 수정_1
+    test_a branch_a_3 수정_1
      */
 
 
