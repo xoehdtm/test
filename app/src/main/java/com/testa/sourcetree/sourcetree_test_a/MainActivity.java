@@ -95,9 +95,9 @@ public class MainActivity extends AppCompatActivity {
     //테스트2
     /*
     test_a 수정_2_1
-    test_b 수정_2_1 test_a 수정_2_2
-    test_a 수정_2_3
-
+    test_b 수정_2_1-->
+    create branch_a_2
+    branch_a_2 수정_1_1
 
      */
 
