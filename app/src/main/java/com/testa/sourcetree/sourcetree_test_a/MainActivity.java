@@ -109,7 +109,6 @@ public class MainActivity extends AppCompatActivity {
     test_b 수정 3_3
     test_b 수정 3_4
     test_b 수정 3_5
-    test_b 수정 3_6
 
      */
 
